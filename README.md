@@ -19,7 +19,7 @@ This project is a responsive image gallery that allows users to view a collectio
 
 1. Clone the repository:
     ```bash
-
+https://github.com/RutupurnaPanda/code-alpha__imagegallery.git
     ```
 2. Navigate to the project directory:
     ```bash
